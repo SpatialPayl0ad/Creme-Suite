@@ -1,0 +1,93 @@
+# Crème Warden Terms of Service
+
+**Effective Date:** June 2026
+
+Welcome to Crème Warden. Crème Warden is a Discord emergency response and containment bot designed to help server owners and administrators respond to destructive or suspicious server activity.
+
+By adding or using Crème Warden in a Discord server, you agree to these Terms of Service.
+
+## 1. Use of Crème Warden
+
+Crème Warden is intended for use by Discord server owners, administrators, and authorized moderation or security teams. The bot may assist with emergency lockdowns, suspicious activity response, role mitigation, and security coordination with authorized logging or backup bots.
+
+You agree to use Crème Warden only for lawful, legitimate Discord server administration, moderation, safety, and emergency response purposes.
+
+## 2. Server Administrator Responsibility
+
+The owner or administrators of any Discord server using Crème Warden are responsible for:
+
+* Using Crème Warden in compliance with Discord’s Terms of Service and Community Guidelines.
+* Managing bot permissions appropriately.
+* Controlling who can trigger or configure emergency response features.
+* Reviewing lockdown and mitigation actions.
+* Ensuring the bot’s role is positioned correctly in the Discord role hierarchy.
+* Informing staff that emergency containment actions may be logged or triggered.
+
+Crème Warden does not replace human moderation, server administrator judgment, legal review, or Discord Trust & Safety.
+
+## 3. Bot Functionality
+
+Crème Warden may provide features including, but not limited to:
+
+* Emergency server lockdown
+* Public posting restriction during active incidents
+* Role or channel deletion detection
+* Suspicious activity containment
+* Removal of dangerous permissions from detected actors
+* Lockdown reports
+* Security incident summaries
+* Integration with authorized logging bots
+* Response to authorized security alerts from companion bots
+
+Features may change, be added, removed, or updated at any time.
+
+## 4. Permissions
+
+Crème Warden requires certain Discord permissions to function properly. These may include permissions such as View Channels, Send Messages, Embed Links, Read Message History, View Audit Log, Manage Channels, Manage Roles, Moderate Members, and other permissions needed for emergency containment.
+
+Server administrators are responsible for reviewing and approving the permissions granted to the bot.
+
+Crème Warden can only manage roles, channels, and members allowed by Discord’s permission and role hierarchy rules. The bot may be unable to remove roles or apply restrictions if its role is too low.
+
+## 5. Emergency Lockdown and Mitigation
+
+Crème Warden may restrict posting permissions, modify channel permissions, or remove dangerous roles from detected users when emergency thresholds are triggered or when authorized companion bots send security alerts.
+
+These features are intended to reduce active damage during incidents such as mass role deletion, channel deletion, malicious staff activity, or other destructive behavior.
+
+Server administrators are responsible for reviewing bot actions after an incident and restoring normal access when appropriate.
+
+## 6. Availability
+
+Crème Warden is provided “as is” and “as available.” We do not guarantee uninterrupted uptime, error-free operation, successful containment, complete detection of malicious activity, or prevention of all server damage. Discord outages, hosting issues, audit log delays, rate limits, permission changes, role hierarchy issues, or configuration errors may affect bot performance.
+
+## 7. Prohibited Use
+
+You may not use Crème Warden to:
+
+* Harass, target, silence, or punish users outside legitimate moderation or emergency response purposes.
+* Violate Discord’s Terms of Service or Community Guidelines.
+* Lock down servers where you are not authorized to administer or moderate.
+* Misuse role removal or channel restriction features for abuse, retaliation, or discrimination.
+* Attempt to reverse engineer, exploit, abuse, or disrupt the bot.
+* Use the bot for unlawful surveillance, impersonation, coercion, or malicious server control.
+
+## 8. Security Events and Logs
+
+Crème Warden may process Discord server events, audit log information, role information, channel information, and user IDs in order to identify emergency incidents and perform containment actions. More information about what data may be processed is available in the Crème Warden Privacy Policy.
+
+## 9. Removal of the Bot
+
+You may stop using Crème Warden at any time by removing it from your Discord server. Removing the bot will stop future emergency response actions, but it may not automatically reverse prior lockdown changes, remove previous logs, or delete reports already posted in your server.
+
+## 10. Limitation of Liability
+
+Crème Warden is an emergency response support tool. We are not responsible for damages, losses, deleted data, missed detections, false positives, incorrect role removals, server disruptions, Discord enforcement actions, or other issues resulting from the use, misuse, misconfiguration, or inability to use the bot.
+
+## 11. Changes to These Terms
+
+These Terms may be updated from time to time. Continued use of Crème Warden after changes are posted means you accept the updated Terms.
+
+## 12. Contact
+
+For questions about these Terms, contact the Crème Warden operator or the server administrator responsible for installing the bot.
