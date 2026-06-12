@@ -1,0 +1,86 @@
+# Crème Botlée Terms of Service
+
+**Effective Date:** June 2026
+
+Welcome to Crème Botlée. Crème Botlée is a Discord verification and member authorization bot designed to help Discord server owners verify members, manage access, and assign verification-related roles.
+
+By adding or using Crème Botlée in a Discord server, you agree to these Terms of Service.
+
+## 1. Use of Crème Botlée
+
+Crème Botlée is intended for use by Discord server owners, administrators, and authorized moderation teams. The bot may assist with member verification, access control, role assignment, and related server safety workflows.
+
+You agree to use Crème Botlée only for lawful, legitimate Discord server administration and verification purposes.
+
+## 2. Server Administrator Responsibility
+
+The owner or administrators of any Discord server using Crème Botlée are responsible for:
+
+* Informing members that verification may be required to access the server.
+* Using Crème Botlée in compliance with Discord’s Terms of Service and Community Guidelines.
+* Managing bot permissions appropriately.
+* Controlling which roles are assigned through verification.
+* Ensuring verification instructions are clear and not misleading.
+
+Crème Botlée does not replace human moderation, Discord Trust & Safety, or server administrator judgment.
+
+## 3. Bot Functionality
+
+Crème Botlée may provide features including, but not limited to:
+
+* Member verification
+* Verification status checking
+* Role assignment after successful verification
+* Access control for server channels
+* Verification reminders or instructions
+* Member authorization support
+* Integration with verification or backup-related services when configured by server staff
+
+Features may change, be added, removed, or updated at any time.
+
+## 4. Permissions
+
+Crème Botlée requires certain Discord permissions to function properly. These may include permissions such as View Channels, Send Messages, Embed Links, Read Message History, Manage Roles, and other permissions needed for verification and access control.
+
+Server administrators are responsible for reviewing and approving the permissions granted to the bot.
+
+## 5. Availability
+
+Crème Botlée is provided “as is” and “as available.” We do not guarantee uninterrupted uptime, error-free operation, or successful verification for every user. Discord outages, permission changes, hosting issues, rate limits, user privacy settings, third-party service issues, or configuration problems may affect bot performance.
+
+## 6. Prohibited Use
+
+You may not use Crème Botlée to:
+
+* Harass, target, or discriminate against users.
+* Violate Discord’s Terms of Service or Community Guidelines.
+* Collect data from users or servers where you are not authorized to administer verification.
+* Misrepresent the purpose of verification.
+* Attempt to reverse engineer, exploit, abuse, or disrupt the bot.
+* Use the bot for unlawful surveillance, phishing, impersonation, or malicious access control.
+
+## 7. Verification and Access
+
+Crème Botlée may grant or remove access based on verification status, role configuration, or server administrator settings. Server owners and administrators are responsible for deciding what verification means for their server and what access verified users receive.
+
+Crème Botlée does not guarantee that a verified user is safe, trustworthy, or compliant with server rules.
+
+## 8. Data and Privacy
+
+Crème Botlée may process Discord account and server information needed to provide verification and role assignment features. More information about what data may be processed is available in the Crème Botlée Privacy Policy.
+
+## 9. Removal of the Bot
+
+You may stop using Crème Botlée at any time by removing it from your Discord server. Removing the bot will stop future verification actions, but it may not automatically remove roles, delete prior messages, or erase data stored by third-party services used for verification.
+
+## 10. Limitation of Liability
+
+Crème Botlée is a verification support tool. We are not responsible for damages, losses, moderation decisions, incorrect role assignments, missed verifications, server disruptions, Discord enforcement actions, or other issues resulting from the use, misuse, misconfiguration, or inability to use the bot.
+
+## 11. Changes to These Terms
+
+These Terms may be updated from time to time. Continued use of Crème Botlée after changes are posted means you accept the updated Terms.
+
+## 12. Contact
+
+For questions about these Terms, contact the Crème Botlée operator or the server administrator responsible for installing the bot.
