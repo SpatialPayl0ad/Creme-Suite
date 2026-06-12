@@ -1,0 +1,101 @@
+# Crème Botlée Privacy Policy
+
+**Effective Date:** June 2026
+
+This Privacy Policy explains what information Crème Botlée may process when used in a Discord server.
+
+Crème Botlée is a Discord verification and member authorization bot designed to help server owners verify members, manage access, and assign verification-related roles.
+
+## 1. Information Crème Botlée May Process
+
+Depending on server configuration and enabled permissions, Crème Botlée may process information such as:
+
+* Discord user IDs
+* Usernames, display names, and server nicknames
+* Server IDs
+* Role IDs and role names
+* Verification status
+* Member join information
+* Timestamps related to verification activity
+* Channel IDs used for verification
+* Basic interaction data related to verification commands or buttons
+
+Crème Botlée may also process information needed to assign or remove server roles after verification.
+
+## 2. Verification Data
+
+Crème Botlée may use Discord account identifiers and server membership information to determine whether a user has completed verification or is eligible for certain roles.
+
+If the server uses an external verification provider or related service, verification activity may also be processed by that service according to its own policies.
+
+## 3. Message Content
+
+Crème Botlée is not primarily designed to log or monitor general message content.
+
+If Message Content Intent is enabled or if users interact with verification commands, buttons, or instructions, Crème Botlée may process limited message or interaction content necessary to complete verification or provide bot responses.
+
+## 4. How Information Is Used
+
+Crème Botlée uses processed information to:
+
+* Verify Discord server members
+* Assign verification-related roles
+* Manage access to server channels
+* Confirm verification status
+* Support server safety and anti-abuse workflows
+* Respond to verification commands or interactions
+* Help server staff manage membership access
+
+Crème Botlée does not sell user data.
+
+## 5. Where Information Is Stored
+
+Crème Botlée may store or process verification-related information through Discord, the bot’s hosting environment, or authorized third-party verification services configured by the server operator.
+
+Some information may also appear inside Discord channels, bot responses, verification logs, or administrative records depending on server configuration.
+
+Server owners and administrators are responsible for controlling access to any private verification or staff channels.
+
+## 6. Data Sharing
+
+Crème Botlée does not sell personal data.
+
+Crème Botlée may share or transmit limited information only as needed to provide verification functionality, such as:
+
+* Processing events through Discord’s API
+* Assigning roles inside a Discord server
+* Communicating verification status to authorized verification services
+* Running through the bot’s hosting provider
+* Sending configured bot responses or verification notices inside Discord
+
+Crème Botlée does not intentionally share verification data with advertisers or unrelated third parties.
+
+## 7. Data Retention
+
+Verification-related data may be retained as long as needed to provide verification, access control, abuse prevention, or server administration features.
+
+Server administrators may remove Crème Botlée from their server at any time to stop future verification activity. Removing the bot may not automatically delete roles, prior verification messages, Discord logs, or data held by third-party verification services.
+
+## 8. User Control
+
+Discord users with questions about verification in a specific server should contact that server’s owner or moderation team.
+
+A server owner may remove Crème Botlée from the server or adjust the bot’s permissions and role access at any time.
+
+## 9. Children’s Privacy
+
+Crème Botlée is intended for use within Discord servers and is subject to Discord’s own age requirements and policies. Crème Botlée is not designed to knowingly collect information from children outside the operation of Discord server verification features.
+
+## 10. Security
+
+Reasonable efforts are made to limit Crème Botlée’s access to only the permissions needed for verification and role assignment. Server owners should avoid granting unnecessary permissions and should keep verification and staff channels restricted to trusted staff only.
+
+No system can be guaranteed completely secure.
+
+## 11. Changes to This Policy
+
+This Privacy Policy may be updated from time to time. Continued use of Crème Botlée after changes are posted means the updated policy applies.
+
+## 12. Contact
+
+For questions about this Privacy Policy, contact the Crème Botlée operator or the server administrator responsible for installing the bot.
