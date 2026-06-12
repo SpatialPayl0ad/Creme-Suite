@@ -1,0 +1,105 @@
+# Crème Vault Terms of Service
+
+**Effective Date:** June 2026
+
+Welcome to Crème Vault. Crème Vault is a Discord backup and recovery bot designed to help server owners and administrators preserve server structure, compare backups, restore missing roles and channels, recover member role assignments, and support server recovery after disruption.
+
+By adding or using Crème Vault in a Discord server, you agree to these Terms of Service.
+
+## 1. Use of Crème Vault
+
+Crème Vault is intended for use by Discord server owners, administrators, and authorized moderation or recovery teams. The bot may assist with server backups, restore previews, channel recovery, role recovery, member-role restoration, missing-member recovery invites, and scheduled automatic backups.
+
+You agree to use Crème Vault only for lawful, legitimate Discord server administration, backup, recovery, and safety purposes.
+
+## 2. Server Administrator Responsibility
+
+The owner or administrators of any Discord server using Crème Vault are responsible for:
+
+* Informing staff that server structure and member-role mappings may be backed up.
+* Using Crème Vault in compliance with Discord’s Terms of Service and Community Guidelines.
+* Managing bot permissions appropriately.
+* Controlling access to private backup and recovery channels.
+* Storing backup files securely.
+* Reviewing backups before restoring from them.
+* Ensuring recovery actions are authorized by the server owner or administration team.
+
+Crème Vault does not replace human judgment, server administration responsibility, legal review, or Discord’s own Trust & Safety processes.
+
+## 3. Bot Functionality
+
+Crème Vault may provide features including, but not limited to:
+
+* Server structure backups
+* Role backups
+* Channel backups
+* Permission overwrite backups
+* Member-role mapping backups
+* Backup labels
+* Restore previews
+* Missing role restoration
+* Missing channel restoration
+* Current-member role restoration
+* Missing-member recovery invite support
+* Manual recovery link support
+* Scheduled automatic backups
+* Recovery reports
+
+Features may change, be added, removed, or updated at any time.
+
+## 4. Permissions
+
+Crème Vault requires certain Discord permissions to function properly. These may include permissions such as View Channels, Send Messages, Embed Links, Read Message History, Attach Files, Manage Channels, Manage Roles, Manage Server, Create Instant Invite, and other permissions needed for backup and recovery operations.
+
+Server administrators are responsible for reviewing and approving the permissions granted to the bot.
+
+Crème Vault can only manage roles and channels allowed by Discord’s permission and role hierarchy rules. The bot may be unable to restore or assign roles that are above or equal to its own highest role.
+
+## 5. Backups and Recovery
+
+Crème Vault backups may include server structure information such as role names, role IDs, channel names, channel IDs, permission settings, member-role mappings, and related metadata.
+
+Crème Vault is designed to help restore missing server components, but it does not guarantee complete recovery in all situations. Discord permission limits, role hierarchy, missing data, deleted accounts, unavailable members, rate limits, or configuration issues may affect recovery.
+
+Crème Vault is designed to avoid destructive recovery actions. Recovery features are intended to create missing items, reapply eligible roles, and generate recovery invites when requested. Server administrators are still responsible for reviewing restore actions.
+
+## 6. Availability
+
+Crème Vault is provided “as is” and “as available.” We do not guarantee uninterrupted uptime, error-free operation, successful backups, successful restores, or complete recovery. Discord outages, hosting issues, permission changes, rate limits, deleted data, configuration errors, or third-party issues may affect bot performance.
+
+## 7. Prohibited Use
+
+You may not use Crème Vault to:
+
+* Access, copy, or recover servers where you are not authorized to administer.
+* Harass, target, or impersonate users.
+* Violate Discord’s Terms of Service or Community Guidelines.
+* Misuse backup data for surveillance, doxxing, abuse, or unauthorized tracking.
+* Attempt to reverse engineer, exploit, abuse, or disrupt the bot.
+* Use recovery invites, backup files, or restored roles for malicious access control.
+
+## 8. Backup File Responsibility
+
+Backup files may contain sensitive server administration information. Server owners and administrators are responsible for protecting backup files, limiting access to them, and deleting old or unnecessary backups when appropriate.
+
+Anyone with access to backup files may be able to view server structure and member-role mapping information.
+
+## 9. Data and Privacy
+
+Crème Vault may process Discord server and member information needed to provide backup and recovery features. More information about what data may be processed is available in the Crème Vault Privacy Policy.
+
+## 10. Removal of the Bot
+
+You may stop using Crème Vault at any time by removing it from your Discord server. Removing the bot will stop future backup and recovery actions, but it may not automatically delete prior backup files, Discord messages, recovery reports, or logs already posted in your server.
+
+## 11. Limitation of Liability
+
+Crème Vault is a backup and recovery support tool. We are not responsible for damages, losses, deleted data, incomplete backups, failed restores, incorrect role assignments, server disruptions, Discord enforcement actions, unauthorized access caused by poor permission management, or other issues resulting from the use, misuse, misconfiguration, or inability to use the bot.
+
+## 12. Changes to These Terms
+
+These Terms may be updated from time to time. Continued use of Crème Vault after changes are posted means you accept the updated Terms.
+
+## 13. Contact
+
+For questions about these Terms, contact the Crème Vault operator or the server administrator responsible for installing the bot.
